@@ -1,0 +1,2 @@
+pnpm lint
+git update-index --again
